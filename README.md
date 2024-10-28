@@ -1,6 +1,7 @@
 # BitAxe Tools
 
-These tools were developed to address specific issues encountered with a BitAxe device that arrived without a factory reset and was already connected to an existing swarm. Due to this pre-configured state, the device had restricted settings that prevented configuration changes. The following tools provide solutions to regain control of the device and update it as needed.
+These tools were developed to address specific issues encountered with a BitAxe device that arrived without a factory reset and was already connected to an existing swarm. Due to this pre-configured state, the device had restricted settings that prevented configuration changes. The following tools provide solutions to regain control of the device and update it as needed. 
+These tools requre you to have Tkinter installed to use.
 
 ## Tools
 
@@ -27,3 +28,4 @@ Upon receiving the BitAxe, it was found to be pre-configured with another swarm,
 ---
 
 For additional support, please refer to the documentation provided with your BitAxe or reach out to BitAxe discord for support after doing your own due process.
+Please donate hashing power or BTC to: 1CNg32ut3ABbtGVqfcsTeWvXHHFJtGy1mE
