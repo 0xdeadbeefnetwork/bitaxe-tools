@@ -3,7 +3,7 @@
 These tools were developed to address specific issues encountered with a BitAxe device that arrived without a factory reset and was already connected to an existing swarm. Due to this pre-configured state, the device had restricted settings that prevented configuration changes. The following tools provide solutions to regain control of the device and update it as needed. 
 These tools requre you to have Tkinter installed to use.
 
-***PARTIAL BRICK - THIS TOOL WILL NOT WORK ON 2.3.0 firmware if the device is in Bitaxe API mode! In this case the tool will address when your save button is disabled, and you're unable to use webflash for some reason***
+***PARTIAL BRICK - THIS TOOL WILL NOT WORK ON 2.3.0 firmware if the device is in Bitaxe API mode! In this case the tool will address when your save button is disabled, and you're unable to use webflash for some reason only IF the bitaxe is already connected to your LAN!***
 
 ## Tools
 
