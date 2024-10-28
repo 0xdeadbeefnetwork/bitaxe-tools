@@ -7,7 +7,7 @@ These tools requre you to have Tkinter installed to use.
 
 ### Tool 1: BitAxe Configuration from Default IP
 
-This tool allows you to configure the BitAxe from its default SSID IP. It connects to the BitAxe's default `SSID IP` address to allow modifications to the device settings. This is particularly useful for BitAxe devices that are not properly factory reset and may not have been correctly disconnected from previous configurations.
+This tool allows you to configure the BitAxe from its default SSID IP. It connects to the BitAxe's default `SSID IP` address to allow modifications to the device settings. This is particularly useful for BitAxe devices that are not properly factory reset and may not have been correctly disconnected from previous configurations, or in the case that your save button is disabled in your current running firmware.
 
 - **Usage**: Connect to the BitAxe’s default IP address (SSID IP), and use this tool to access configuration settings.
 - **Requirements**: Ensure that the BitAxe is accessible via its default SSID IP address.
