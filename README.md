@@ -23,7 +23,7 @@ This tool provides a way to perform a ‘partial brick’ on the BitAxe device, 
 
 ## Background
 
-Upon receiving the BitAxe, it was found to be pre-configured with another swarm, and the save functionality was locked, making it impossible to modify settings before restarting. Additionally, the OTAWWW endpoint was responding with a 500 HTTP status code, preventing firmware updates. These tools were created to overcome these limitations by resetting the configuration access and updating the firmware.
+Upon receiving the BitAxe, it was found to be pre-configured with another swarm, and the save functionality was locked, making it impossible to modify settings before restarting. Additionally, the `OTAWWW` and `OTA` endpoints were responding with a 500 HTTP status code, preventing firmware updates. These tools were created to overcome these limitations by resetting the configuration access and updating the firmware.
 
 ---
 
