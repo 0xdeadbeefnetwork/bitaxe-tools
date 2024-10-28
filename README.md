@@ -29,4 +29,4 @@ Upon receiving the BitAxe, it was found to be pre-configured with another swarm,
 
 For additional support, please refer to the documentation provided with your BitAxe or reach out to BitAxe discord for support after doing your own due process.
 Please donate hashing power or BTC to: `1CNg32ut3ABbtGVqfcsTeWvXHHFJtGy1mE` 
-If you would like an overview please download this repo, and open api_uri.html with your browser. This will explain, what i've understood with the bitaxe API.
+If you would like an overview please download this repo, and open `api_uri.html` with your browser. This will explain, what i've understood with the bitaxe API.
