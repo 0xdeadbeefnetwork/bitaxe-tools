@@ -62,7 +62,7 @@ def show_recovery_instructions():
 
 # Display the donation address and provide copy option
 def show_donate():
-    donate_address = "1CNg32ut3ABbtGVqfcsTeWvXHHFJtGy1mE"
+    donate_address = "bc1qq9rtrc7ly3e77s30f9es7k2x79qd4y0h2ev06x"
     root.clipboard_clear()
     root.clipboard_append(donate_address)
     messagebox.showinfo("Donate Bitcoin", f"Bitcoin Address: {donate_address}\n\nAddress copied to clipboard.")
